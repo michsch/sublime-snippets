@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+;(function( window, document, undefined ) {
+  "use strict";
+
+  ${1}
+
+})( window, document );
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>self</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js,source.js.embedded.html</scope>
+	<description>self invoking function</description>
+</snippet>
